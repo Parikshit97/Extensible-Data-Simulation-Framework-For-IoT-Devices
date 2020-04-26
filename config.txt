@@ -1,0 +1,13 @@
+
+# Comments
+
+
+#C_DC(2)/L_DC(2)/CHS_HS(2)/CHLR_R(2)/P_LCTDW Random#100,200
+#C_DC(2)/L_DC(2)/CHS_HS(2)/CHLR_R(2)/P_LCTDW2 Random#100,200
+#C_DC(2)/L_DC(2)/CHS_HP(2)/CHLR_HP(2)/P_HP Random#40,50
+
+
+C_DC(2)/L_DC(50)/CHS_HS2(2)/CHLR_R(2)/P_LCTDW Counter#0,90,5
+#C_DC(2)/L_DC(2)/CHS_HS(2)/CHLR_R(2)/P_LCTDW Gauge#100,200
+#C_DC(2)/L_DC(2)/CHS_HS(2)/CHLR_R(2)/P_LCTDW Sin#100
+
